@@ -1,0 +1,8 @@
+target/
+.git/
+.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+.idea/
+.DS_Store
